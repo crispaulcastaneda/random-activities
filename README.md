@@ -1,7 +1,7 @@
 # Random Activities
 Made of things that I made or I read on the articles and blogs to help myself to move forward.
 Instead of watching tutorials, I just need a peace of mind where I can track the way I code.
-Every activities is made by being resourceful or modified to practice my UI/UX Skills.
+Every activities is made by being resourceful or modified to practice my UI/UX and scripting Skills.
 
 ## How this things will be done?
 No ending, only updates...
