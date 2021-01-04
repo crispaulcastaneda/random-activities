@@ -1,0 +1,20 @@
+{
+  "name": "progress-bar",
+  "version": "1.0.0",
+  "description": "Simple progress bar step-by-step",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crispaulcastaneda/random-activities/upload/progress-bar"
+  },
+  "keywords": [
+    "progress-bar",
+    "javascript",
+    "html"
+  ],
+  "author": "Cristian Paul Castaneda",
+  "license": "MIT"
+}
